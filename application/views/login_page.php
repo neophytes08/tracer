@@ -27,7 +27,7 @@
  	<style type="text/css">
  		body
 	    {
-	      background: url(/tracer/assets/img/bg.jpg) no-repeat center fixed;
+	      background: url(/tracer/assets/img/bg-tracer.jpg) no-repeat center fixed;
 	      background-size: 100% 100%;
 	      color: white;
 	    }
